@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-touri-app/static/css/main.e3f82137.chunk.css",
+    "main.js": "/react-touri-app/static/js/main.8e4bd143.chunk.js",
+    "main.js.map": "/react-touri-app/static/js/main.8e4bd143.chunk.js.map",
+    "runtime-main.js": "/react-touri-app/static/js/runtime-main.17756f55.js",
+    "runtime-main.js.map": "/react-touri-app/static/js/runtime-main.17756f55.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/react-touri-app/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.4d89bdf3.chunk.js": "/react-touri-app/static/js/2.4d89bdf3.chunk.js",
+    "static/js/2.4d89bdf3.chunk.js.map": "/react-touri-app/static/js/2.4d89bdf3.chunk.js.map",
+    "index.html": "/react-touri-app/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/react-touri-app/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.e3f82137.chunk.css.map": "/react-touri-app/static/css/main.e3f82137.chunk.css.map",
+    "static/js/2.4d89bdf3.chunk.js.LICENSE.txt": "/react-touri-app/static/js/2.4d89bdf3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17756f55.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.4d89bdf3.chunk.js",
+    "static/css/main.e3f82137.chunk.css",
+    "static/js/main.8e4bd143.chunk.js"
+  ]
+}
